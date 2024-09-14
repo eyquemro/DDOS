@@ -1,4 +1,4 @@
-# DDOS URL Pinger
+# DDOS URL Pinger - Documentation
 
 This program pings a specified URL multiple times using the `requests` library in Python. It uses multi-threading to send requests concurrently and checks the response status to determine if the URL is reachable.
 
